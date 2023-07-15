@@ -10,14 +10,6 @@ This is a web application built with Express.js and TensorFlow.js that classifie
 - MongoDB Integration: User data and waste classification records are stored in a MongoDB database.
 - Cookie-based User Tracking: The application uses cookies to track user sessions and manage user-specific actions.
 
-## Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/ziyad188/E-dtox
-
-
 ## Prerequisites
 
 Node.js and npm installed on your system.
