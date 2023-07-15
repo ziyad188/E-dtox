@@ -18,10 +18,11 @@ This is a web application built with Express.js and TensorFlow.js that classifie
 git clone https://github.com/ziyad188/E-dtox
 
 
-Prerequisites
+## Prerequisites
 
 Node.js and npm installed on your system.
-Libraries and Tools Used
+
+## Libraries and Tools Used
 
 Express.js: Web framework for building the application's server.
 EJS: Templating engine for rendering dynamic HTML content.
@@ -30,11 +31,12 @@ Multer: Middleware for handling file uploads.
 Mongoose: MongoDB object modeling for Node.js.
 Node-fetch: Fetch API implementation for Node.js.
 Canvas: Library for generating images on the server-side.
-License
+
+##License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
+## Acknowledgments
 
 The Teachable Machine model used in this application was obtained from teachablemachine.withgoogle.com.
 
