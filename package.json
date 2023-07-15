@@ -1,0 +1,32 @@
+{
+  "name": "wrap-frontend",
+  "version": "1.0.0",
+  "description": "<div>\r <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEGFl27WvKVQWTmz1HvbhWoWXbDg00zFh0_Gn7adDpyqPlRaCi8x6utrH7kt0Tkq9HbNZ5uWMjzuh9pbD0PhzqaaoyKBl2XI4dQm65mS2UNdF3zqhIkIhCG2xGnSonOZxy_xK7OibutuPTW4_US6q_Peqy-WzR139UYW43BHpaePuJaYMhlU-Xxr9w/s16000/logo-light.png\" width=100>\r </div>\r <h1> WRAP - Waste Management System</h1>\r <ul>\r <li>Build at FOSS HACK 3.0</li>\r <ul>\r <h4>Scenario</h4>\r <p>Waste management is one of the most important problems faced in the today's world. An idea that can provide an effective waste management in the current scenario has become a necessity.<br>\r The toxicity due to all types of pollution is a threat to human race. Our product will replace the current outdated waste management systems.</p>\r <h4>Problem Statement</h4>\r <p>How might we address waste (including e-waste), handling, storage, transportation, recycling, and final disposal of any residual waste in a uniform way globally such that the developing or poor countries are saved from becoming the dumping ground for the developed countries?</p>\r <h4>Our Solution</h4>\r <p>Our App features a new waste management system for rapidly growing cities. Instead of waiting for inefficient waste collection systems and unreliable pickup trucks to collect your waste, WRAP lets you request a pickup on-demand with just the tap of a button. WRAP platform is cheaper, efficient, and reliable than local incumbent systems, faster than their service, and Waste collection made easy and fantasized.<br>\r Unlike other Waste management platforms, our idea is to spread good environmental habits of sorting and recycling your waste and help you to track your waste and impact\r on the environment from your solid waste collection data.<br>\r We categorize the collected waste according to our waste grading system and rewards with WRAP coins. They can be used to claim various deals and vouchers on our partner\r websites. This would encourage the users to manipulate the recyclables properly. We are launching \"WRAP\", a web application that collect your recyclables and provides you with rewards for them</p>\r <h4>Timeline</h4>\r <ul>\r <li>What was the initial stage of the project ?\r <p>The Solution of the problem, merely only the idea and a framework of Design</p>\r <li>What stage is it in now?\r <p>The finalized product is ready to launch. Most of the functionalities are integrated and a finished product.</p>\r <li>How did you get there?\r <p>Our Team had 2 developers and a Designer, so each of them could work on the assigned works working parallely on the project.</p>\r <li>What is working/not working?\r <p>Currently the profile picture updation isn't working all other funtionalities are integrated and tested.</p>\r </ul>",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AjayVishnuE/WRAP-Frontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AjayVishnuE/WRAP-Frontend/issues"
+  },
+  "homepage": "https://github.com/AjayVishnuE/WRAP-Frontend#readme",
+  "dependencies": {
+    "@tensorflow-models/mobilenet": "^2.1.0",
+    "@tensorflow/tfjs-converter": "^3.21.0",
+    "@tensorflow/tfjs-node": "^4.8.0",
+    "canvas": "^2.11.2",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.1.4",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongoose": "^7.3.0",
+    "multer": "^1.4.5-lts.1"
+  }
+}
