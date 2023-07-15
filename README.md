@@ -16,13 +16,13 @@ Node.js and npm installed on your system.
 
 ## Libraries and Tools Used
 
-Express.js: Web framework for building the application's server.
-EJS: Templating engine for rendering dynamic HTML content.
-TensorFlow.js (tfjs-node): Library for running machine learning models on Node.js.
-Multer: Middleware for handling file uploads.
-Mongoose: MongoDB object modeling for Node.js.
-Node-fetch: Fetch API implementation for Node.js.
-Canvas: Library for generating images on the server-side.
+- Express.js: Web framework for building the application's server.
+- EJS: Templating engine for rendering dynamic HTML content.
+- TensorFlow.js (tfjs-node): Library for running machine learning models on Node.js.
+- Multer: Middleware for handling file uploads.
+- Mongoose: MongoDB object modeling for Node.js.
+- Node-fetch: Fetch API implementation for Node.js.
+- Canvas: Library for generating images on the server-side.
 
 ##License
 
